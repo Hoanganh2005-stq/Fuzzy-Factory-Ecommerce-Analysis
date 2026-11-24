@@ -1,27 +1,3 @@
-# Dataset Information
-
-This project uses the Fuzzy Factory e-commerce dataset obtained through an online data analytics community for educational and portfolio purposes.
-
-## Dataset Overview
-
-- Business domain: E-commerce
-- Data period: March 2012 – March 2015
-- Database: SQL Server (FuzzyDB)
-
-## Database Tables
-
-- `website_sessions`
-- `website_pageviews`
-- `orders`
-- `order_items`
-- `order_item_refunds`
-- `products`
-
-## Data Availability
-
-The original dataset is not included in this repository because its redistribution permissions have not been verified.
-
-This repository focuses on SQL analysis, data modeling, Power BI visualization, business insights, and recommendations.
 
 # Fuzzy Factory | E-commerce Data Analysis
 
