@@ -74,7 +74,7 @@ The original dataset is not included because its redistribution permissions have
 
 Analyzes overall business performance through revenue, gross profit, orders, website sessions, conversion rate, and average order value.
 
-![Growth Overview](images/01_growth_overview.png)
+![Growth Overview](images/01_Growth%20Overview.png)
 
 **Key Findings — 2014**
 
@@ -87,7 +87,7 @@ Analyzes overall business performance through revenue, gross profit, orders, web
 
 Evaluates marketing sources and campaigns based on traffic, revenue, orders, and conversion rates.
 
-![Marketing Performance](images/02_marketing_performance.png)
+![Marketing Performance](images/02_Marketing%20Performance.png)
 
 **Key Findings — 2014**
 
@@ -100,7 +100,7 @@ Evaluates marketing sources and campaigns based on traffic, revenue, orders, and
 
 Analyzes product revenue, gross profit, sales volume, and gross margin.
 
-![Product Performance](images/03_product_performance.png)
+![Product Performance](images/03_Product%20Performance.png)
 
 **Key Findings — 2014**
 
@@ -112,7 +112,7 @@ Analyzes product revenue, gross profit, sales volume, and gross margin.
 
 Examines website sessions across seven stages of the customer purchase journey.
 
-![Conversion Funnel](images/04_conversion_funnel.png)
+![Conversion Funnel](images/04_Conversion%20Funnel.png)
 
 **Key Findings — 2014**
 
